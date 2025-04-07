@@ -19,22 +19,36 @@
             padding: 80px 0;
             color: white;
             border-bottom: 5px solid #f5f5f5;
+            background-image: url('https://cdn.pixabay.com/photo/2021/08/10/15/39/stock-market-6531146_1280.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            position: relative;
         }
         header h1 {
             font-size: 3.5em;
             margin: 0;
             letter-spacing: 2px;
+            background-color: rgba(0, 95, 115, 0.7);
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 10px;
         }
         header p {
             font-size: 1.4em;
             margin-top: 15px;
+            background-color: rgba(0, 95, 115, 0.7);
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 10px;
         }
         .container {
             width: 85%;
             margin: 40px auto;
             text-align: center;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             flex-wrap: wrap;
             gap: 30px;
         }
@@ -42,7 +56,6 @@
             background-color: white;
             border-radius: 10px;
             padding: 30px;
-            margin: 20px;
             width: 250px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease-in-out;
@@ -93,22 +106,22 @@
     <div class="ebook">
         <h3>Ebook 1: Introduction au Trading</h3>
         <p>Apprenez les bases du trading pour débuter avec succès dans les marchés financiers.</p>
-        <a href="https://shop.beacons.ai/ebooksdetout/c6a1f096-f6f6-422e-9f71-eecd5fa1848b?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true" target="_blank">Voir cet ebook</a>
+        <a href="https://shop.beacons.ai/ebooksdetout/c6a1f096-f6f6-422e-9f71-eecd5fa1848b" target="_blank">Voir cet ebook</a>
     </div>
     <div class="ebook">
         <h3>Ebook 2: Stratégies de Trading Avancées</h3>
         <p>Optimisez vos techniques de trading pour maximiser vos gains.</p>
-        <a href="https://shop.beacons.ai/ebooksdetout/eb4e9283-991f-4d37-8618-b2a7dfb217be?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true" target="_blank">Voir cet ebook</a>
+        <a href="https://shop.beacons.ai/ebooksdetout/eb4e9283-991f-4d37-8618-b2a7dfb217be" target="_blank">Voir cet ebook</a>
     </div>
     <div class="ebook">
         <h3>Ebook 3: Gestion des Risques en Trading</h3>
         <p>Protégez vos investissements en maîtrisant la gestion des risques dans vos stratégies de trading.</p>
-        <a href="https://shop.beacons.ai/ebooksdetout/aa34e512-f6ea-421c-b5d2-e9f3243fb86d?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true" target="_blank">Voir cet ebook</a>
+        <a href="https://shop.beacons.ai/ebooksdetout/aa34e512-f6ea-421c-b5d2-e9f3243fb86d" target="_blank">Voir cet ebook</a>
     </div>
     <div class="ebook">
         <h3>Ebook 4: Analyse Technique pour Débutants</h3>
         <p>Maîtrisez les outils d'analyse technique pour prendre des décisions éclairées dans vos trades.</p>
-        <a href="https://shop.beacons.ai/ebooksdetout/de9f260d-f29e-45eb-a3ba-12097bb1d7c2?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true" target="_blank">Voir cet ebook</a>
+        <a href="https://shop.beacons.ai/ebooksdetout/de9f260d-f29e-45eb-a3ba-12097bb1d7c2" target="_blank">Voir cet ebook</a>
     </div>
 </div>
 
