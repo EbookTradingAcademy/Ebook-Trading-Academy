@@ -83,17 +83,17 @@
     <div class="ebook">
         <h3>Ebook 1: Introduction au Trading</h3>
         <p>Découvrez les bases du trading et commencez à comprendre les marchés financiers.</p>
-        <a href="https://beacons.ai/ebooksdetout" target="_blank">Voir cet ebook</a>
+        <a href="[https://beacons.ai/ebooksdetout](https://shop.beacons.ai/ebooksdetout/c6a1f096-f6f6-422e-9f71-eecd5fa1848b?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true)" target="_blank">Voir cet ebook</a>
     </div>
     <div class="ebook">
         <h3>Ebook 2: Stratégies de Trading Avancées</h3>
         <p>Perfectionnez vos stratégies et apprenez à maximiser vos gains en trading.</p>
-        <a href="https://beacons.ai/ebooksdetout" target="_blank">Voir cet ebook</a>
+        <a href="[https://beacons.ai/ebooksdetout](https://shop.beacons.ai/ebooksdetout/eb4e9283-991f-4d37-8618-b2a7dfb217be?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true)" target="_blank">Voir cet ebook</a>
     </div>
     <div class="ebook">
         <h3>Ebook 3: Gestion des Risques en Trading</h3>
         <p>Apprenez à gérer les risques et à protéger vos investissements sur le long terme.</p>
-        <a href="https://beacons.ai/ebooksdetout" target="_blank">Voir cet ebook</a>
+        <a href="[https://beacons.ai/ebooksdetout](https://shop.beacons.ai/ebooksdetout/aa34e512-f6ea-421c-b5d2-e9f3243fb86d?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Febooksdetout&show_back_button=true)" target="_blank">Voir cet ebook</a>
     </div>
 </div>
 
